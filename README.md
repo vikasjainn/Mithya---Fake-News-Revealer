@@ -1,4 +1,4 @@
-# Mithya: Fake News Detection Application.
+# Mithya: Fake News Detection Application
 
 ![Mithya: Fake News Detection](fake_news_detection.png)
 
