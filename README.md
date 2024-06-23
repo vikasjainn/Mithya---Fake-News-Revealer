@@ -4,7 +4,7 @@
 
 Welcome to Mithya, the Fake News Detection App created by Vikas Jain! This repository houses a powerful machine learning-based web application that specializes in identifying fake news articles using advanced classification models, including Passive Aggressive Classifier and LSTM (Long Short-Term Memory).
 
-## Overview
+## Overview.
 
 In this age of information overload, fake news has become a significant concern. Mithya was developed to tackle this issue by offering an intuitive and robust app capable of accurately distinguishing between fake and genuine news articles. Leveraging cutting-edge machine learning algorithms, Mithya provides users with a user-friendly interface for seamless interaction.
 
